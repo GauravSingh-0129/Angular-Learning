@@ -15,5 +15,5 @@
 	
 ### FILES	-	
 	-	package.json	-> contains all the project dependencies.
-	-	e2e				-> for end-to-end testing.
+	-	e2e		-> for end-to-end testing.
 	-	node_modules	-> all dependencies used in package.json are installed.
